@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calcula Gorjeta</string>
+    <string name="consumo">Consumo</string>
+    <string name="nivel_de_satisfação">Gostou do atendimento?</string>
+    <string name="vinte_porcento">Incrível (20%)</string>
+    <string name="quinze_porcento">Bom (15%)</string>
+    <string name="dez_porcento">Normal (10%)</string>
+    <string name="arredondamento">Arredondada a gorjeta?</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Valor da gorjeta: %s</string>
+</resources>
